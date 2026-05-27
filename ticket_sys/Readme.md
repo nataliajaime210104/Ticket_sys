@@ -12,3 +12,12 @@ Desarrollar un CRM para la empresa X con la metodlogía SCRUM y las herramientas
 - Framework:
 - IDE:
 - CVS:
+
+- ## Arquitectura 
+La arquitectura del proyeto será
+## Metodología
+La metodología parael desarrollo de la aplicación será SCRUM en 4 sprints 
+-[] SPRINT 1
+-[] SPRINT 2
+-[] SPRINT 3
+-[] SPRINT 4
